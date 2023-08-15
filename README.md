@@ -17,3 +17,5 @@ or Run by docker compose
 
 test
 
+This is for the day 24 of 90 days of devps for complete CI CD project
+
