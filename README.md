@@ -1,4 +1,4 @@
-# node-todo-cicd Project
+# node-todo-cicd Project Day24
 
 Run these commands:
 
